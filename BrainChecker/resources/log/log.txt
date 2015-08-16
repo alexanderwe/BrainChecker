@@ -1,0 +1,1671 @@
+30.06.15 17:01: Log was created!
+30.06.15 17:01: Database was created.
+30.06.15 17:03: Database was created.
+30.06.15 17:04: Database was created.
+30.06.15 17:07: Database was created.
+30.06.15 17:07: Database was created.
+30.06.15 17:13: Card was added to database
+30.06.15 17:15: Card was added to database
+30.06.15 17:16: Card was added to database
+30.06.15 17:16: Card was added to database
+30.06.15 17:19: Card was added to database
+30.06.15 17:20: Card was added to database
+30.06.15 17:20: Card was added to database
+30.06.15 17:38: Card was added to database
+30.06.15 17:39: Card was added to database
+30.06.15 17:39: Card was added to database
+30.06.15 17:45: Card was added to database
+30.06.15 17:45: Card was added to database
+30.06.15 17:46: Card was added to database
+30.06.15 17:46: Card was added to database
+30.06.15 17:47: Card was added to database
+30.06.15 17:47: Card was added to database
+30.06.15 17:48: Card was added to database
+30.06.15 17:49: Card was added to database
+30.06.15 17:49: TTL of Card with id 2 was set to 7
+30.06.15 17:49: Card with id 1 was deleted
+30.06.15 17:49: Card was added to database
+30.06.15 17:49: TTL of Card with id 2 was set to 7
+30.06.15 17:49: Card with id 1 was deleted
+30.06.15 17:59: Card was added to database
+30.06.15 17:59: TTL of Card with id '2' was set to '7'
+30.06.15 17:59: Card with id '1' was deleted
+30.06.15 18:02: Card was added to database
+30.06.15 18:02: TTL of Card with id '2' was set to '7'
+30.06.15 18:02: Card with id '1' was deleted
+30.06.15 18:22: Card was added to database
+30.06.15 18:22: TTL of Card with id '2' was set to '7'
+30.06.15 18:22: Card with id '1' was deleted
+30.06.15 18:22: Card was added to database
+30.06.15 18:22: TTL of Card with id '2' was set to '7'
+30.06.15 18:22: Card with id '1' was deleted
+30.06.15 18:23: Card was added to database
+30.06.15 18:23: TTL of Card with id '2' was set to '7'
+30.06.15 18:23: Card with id '1' was deleted
+30.06.15 18:23: Card was added to database
+30.06.15 18:23: TTL of Card with id '2' was set to '7'
+30.06.15 18:23: Card with id '1' was deleted
+30.06.15 18:23: Card was added to database
+30.06.15 18:23: TTL of Card with id '2' was set to '7'
+30.06.15 18:23: Card with id '1' was deleted
+30.06.15 18:28: Card was added to database
+30.06.15 18:28: TTL of Card with id '2' was set to '7'
+30.06.15 18:28: Card with id '1' was deleted
+30.06.15 18:34: Card was added to database
+30.06.15 18:34: Card was added to database
+30.06.15 18:34: Card was added to database
+30.06.15 18:36: Card was added to database
+30.06.15 18:36: Card was added to database
+30.06.15 18:36: Card was added to database
+30.06.15 18:37: Card was added to database
+30.06.15 18:37: Card was added to database
+30.06.15 18:37: Card was added to database
+30.06.15 18:37: Card was added to database
+30.06.15 18:37: Card was added to database
+30.06.15 18:37: Card was added to database
+30.06.15 18:38: Card was added to database
+30.06.15 18:38: Card was added to database
+30.06.15 18:38: Card was added to database
+30.06.15 18:38: Card was added to database
+30.06.15 18:38: Card was added to database
+30.06.15 18:38: Card was added to database
+30.06.15 18:38: Card was added to database
+30.06.15 18:38: Card was added to database
+30.06.15 18:38: Card was added to database
+30.06.15 18:39: Card was added to database
+30.06.15 18:39: Card was added to database
+30.06.15 18:39: Card was added to database
+30.06.15 18:40: Card was added to database
+30.06.15 18:40: Card was added to database
+30.06.15 18:40: Card was added to database
+30.06.15 18:40: Card was added to database
+30.06.15 18:40: Card was added to database
+30.06.15 18:40: Card was added to database
+30.06.15 18:40: Card was added to database
+30.06.15 18:40: Card was added to database
+30.06.15 18:40: Card was added to database
+30.06.15 18:46: Card was added to database
+30.06.15 18:46: Card was added to database
+30.06.15 18:46: Card was added to database
+30.06.15 18:47: Card was added to database
+30.06.15 18:47: Card was added to database
+30.06.15 18:47: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 18:48: Card was added to database
+30.06.15 21:24: Card was added to database
+30.06.15 21:25: Card was added to database
+30.06.15 21:25: Card was added to database
+30.06.15 21:26: Card was added to database
+30.06.15 21:26: Card was added to database
+30.06.15 21:26: Card was added to database
+30.06.15 21:27: Card was added to database
+30.06.15 21:28: Card was added to database
+30.06.15 21:29: Card was added to database
+30.06.15 21:30: Card was added to database
+30.06.15 21:30: Card was added to database
+30.06.15 21:32: Card was added to database
+30.06.15 21:41: Card was added to database
+30.06.15 21:42: Card was added to database
+30.06.15 21:43: Card was added to database
+30.06.15 21:43: Card was added to database
+30.06.15 21:44: Card was added to database
+30.06.15 21:44: Card was added to database
+30.06.15 21:44: Card was added to database
+30.06.15 21:44: Card was added to database
+30.06.15 21:44: Card was added to database
+30.06.15 21:44: Card was added to database
+30.06.15 21:46: Card was added to database
+30.06.15 21:46: Card was added to database
+30.06.15 21:46: Card was added to database
+30.06.15 21:47: Card was added to database
+30.06.15 21:47: Card was added to database
+30.06.15 21:47: Card was added to database
+30.06.15 21:48: Card was added to database
+30.06.15 21:48: Card was added to database
+30.06.15 21:48: Card was added to database
+30.06.15 21:48: Card was added to database
+30.06.15 21:48: Card was added to database
+30.06.15 21:48: Card was added to database
+30.06.15 21:49: Card was added to database
+30.06.15 21:49: Card was added to database
+30.06.15 21:49: Card was added to database
+30.06.15 21:49: Card was added to database
+30.06.15 21:49: Card was added to database
+30.06.15 21:49: Card was added to database
+30.06.15 21:50: Card was added to database
+30.06.15 21:50: Card was added to database
+30.06.15 21:50: Card was added to database
+30.06.15 21:54: Card was added to database
+30.06.15 21:54: Card was added to database
+30.06.15 21:54: Card was added to database
+30.06.15 21:57: Card was added to database
+30.06.15 21:57: Card was added to database
+30.06.15 21:57: Card was added to database
+30.06.15 21:58: Card was added to database
+30.06.15 21:58: Card was added to database
+30.06.15 21:58: Card was added to database
+30.06.15 22:01: Card was added to database
+30.06.15 22:01: Card was added to database
+30.06.15 22:01: Card was added to database
+30.06.15 22:01: Card was added to database
+30.06.15 22:01: Card was added to database
+30.06.15 22:01: Card was added to database
+30.06.15 22:03: Card was added to database
+30.06.15 22:03: Card was added to database
+30.06.15 22:03: Card was added to database
+30.06.15 22:04: Card was added to database
+30.06.15 22:04: Card was added to database
+30.06.15 22:04: Card was added to database
+30.06.15 22:05: Card was added to database
+30.06.15 22:05: Card was added to database
+30.06.15 22:05: Card was added to database
+30.06.15 22:05: Card was added to database
+30.06.15 22:05: Card was added to database
+30.06.15 22:05: Card was added to database
+30.06.15 22:05: Card was added to database
+30.06.15 22:05: Card was added to database
+30.06.15 22:05: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:06: Card was added to database
+30.06.15 22:07: Card was added to database
+30.06.15 22:07: Card was added to database
+30.06.15 22:07: Card was added to database
+30.06.15 22:07: Card was added to database
+30.06.15 22:07: Card was added to database
+30.06.15 22:07: Card was added to database
+30.06.15 23:36: Card was added to database
+30.06.15 23:36: Card was added to database
+30.06.15 23:36: Card was added to database
+30.06.15 23:44: Stack Englisch was added to database
+30.06.15 23:45: Stack Englisch was added to database
+30.06.15 23:46: Stack Englisch was added to database
+30.06.15 23:46: Stack Englisch was added to database
+30.06.15 23:47: Stack Englisch was added to database
+30.06.15 23:48: Stack Englisch was added to database
+30.06.15 23:48: Stack Bio was added to database
+30.06.15 23:48: Stack Deutsch was added to database
+30.06.15 23:54: Stack Englisch was added to database
+30.06.15 23:54: Stack Bio was added to database
+30.06.15 23:54: Stack Deutsch was added to database
+30.06.15 23:54: Stack Englisch was added to database
+30.06.15 23:54: Stack Bio was added to database
+30.06.15 23:54: Stack Deutsch was added to database
+30.06.15 23:58: Stack Englisch was added to database
+30.06.15 23:58: Stack Bio was added to database
+30.06.15 23:58: Stack Deutsch was added to database
+30.06.15 23:58: Stack Englisch was added to database
+30.06.15 23:58: Stack Bio was added to database
+30.06.15 23:58: Stack Deutsch was added to database
+30.06.15 23:58: Stack Englisch was added to database
+30.06.15 23:58: Stack Bio was added to database
+30.06.15 23:58: Stack Deutsch was added to database
+30.06.15 23:59: Stack Englisch was added to database
+30.06.15 23:59: Stack Bio was added to database
+30.06.15 23:59: Stack Deutsch was added to database
+30.06.15 23:59: Stack Englisch was added to database
+30.06.15 23:59: Stack Bio was added to database
+30.06.15 23:59: Stack Deutsch was added to database
+30.06.15 23:59: Stack Englisch was added to database
+30.06.15 23:59: Stack Bio was added to database
+30.06.15 23:59: Stack Deutsch was added to database
+30.06.15 23:59: Stack Englisch was added to database
+30.06.15 23:59: Stack Bio was added to database
+30.06.15 23:59: Stack Deutsch was added to database
+01.07.15 00:01: Stack Englisch was added to database
+01.07.15 00:01: Stack Bio was added to database
+01.07.15 00:01: Stack Deutsch was added to database
+01.07.15 00:01: Stack Englisch was added to database
+01.07.15 00:01: Stack Bio was added to database
+01.07.15 00:01: Stack Deutsch was added to database
+01.07.15 00:02: Stack Englisch was added to database
+01.07.15 00:02: Stack Bio was added to database
+01.07.15 00:02: Stack Deutsch was added to database
+01.07.15 00:02: Stack Deutsch was added to database
+01.07.15 00:02: Stack Deutsch was added to database
+01.07.15 00:06: Stack Englisch was added to database
+01.07.15 00:06: Stack Bio was added to database
+01.07.15 00:06: Stack Deutsch was added to database
+01.07.15 00:06: Stack Deutsch was added to database
+01.07.15 00:06: Stack Deutsch was added to database
+01.07.15 00:13: Stack Englisch was added to database
+01.07.15 00:14: Stack Englisch was added to database
+01.07.15 00:15: Card was added to database
+01.07.15 00:15: Stack Englisch was added to database
+01.07.15 00:15: Card was added to database
+01.07.15 00:15: Stack Englisch was added to database
+01.07.15 00:15: Stack Englisch was added to database
+01.07.15 19:55: Card was added to database
+02.07.15 12:42: Card was added to database
+02.07.15 12:45: Card was added to database
+02.07.15 12:48: Card was added to database
+02.07.15 12:48: Card was added to database
+02.07.15 12:48: Card was added to database
+02.07.15 12:53: Card was added to database
+02.07.15 12:54: Card was added to database
+02.07.15 13:00: Card was added to database
+02.07.15 13:00: Card was added to database
+02.07.15 13:01: Card was added to database
+02.07.15 13:04: Card was added to database
+02.07.15 13:04: Card was added to database
+02.07.15 13:05: Card was added to database
+02.07.15 13:16: Card was added to database
+02.07.15 13:19: Card was added to database
+02.07.15 13:20: Card was added to database
+02.07.15 13:28: Card was added to database
+02.07.15 13:30: Card was added to database
+02.07.15 13:39: Stack Mathe was added to database
+02.07.15 13:39: Stack Englisch was added to database
+02.07.15 13:41: Stack Biologie was added to database
+02.07.15 13:42: Card was added to database
+02.07.15 13:42: Stack Mathe was added to database
+02.07.15 13:44: Card was added to database
+02.07.15 13:46: Stack Englisch was added to database
+02.07.15 13:46: Stack Biologie was added to database
+02.07.15 13:46: Card was added to database
+02.07.15 13:47: Card was added to database
+02.07.15 13:58: Card was added to database
+02.07.15 13:59: Stack 12 was added to database
+02.07.15 13:59: Card was added to database
+02.07.15 14:56: Card with id '1' was deleted
+02.07.15 14:58: Card with id '2' was deleted
+02.07.15 14:58: Card with id '3' was deleted
+02.07.15 14:58: Card with id '4' was deleted
+02.07.15 15:05: Card was added to database
+02.07.15 15:05: Card with id '5' was deleted
+02.07.15 15:06: Card was added to database
+02.07.15 15:07: Card was added to database
+02.07.15 15:08: Card was added to database
+02.07.15 15:11: Card was added to database
+02.07.15 15:11: Card was added to database
+02.07.15 15:11: Card was added to database
+02.07.15 15:12: Card was added to database
+02.07.15 15:12: Card with id '6' was deleted
+02.07.15 15:12: Card with id '7' was deleted
+02.07.15 15:12: Card with id '8' was deleted
+02.07.15 15:12: Card with id '10' was deleted
+02.07.15 15:12: Card with id '9' was deleted
+02.07.15 15:12: Card with id '11' was deleted
+02.07.15 15:12: Card with id '12' was deleted
+02.07.15 15:12: Card was added to database
+02.07.15 15:12: Card was added to database
+02.07.15 15:12: Card was added to database
+02.07.15 15:12: Card with id '13' was deleted
+02.07.15 15:12: Card with id '15' was deleted
+02.07.15 15:12: Card with id '14' was deleted
+02.07.15 16:31: Card was added to database
+02.07.15 16:31: Stack Mathematik was added to database
+02.07.15 16:35: Stack Jura was added to database
+02.07.15 16:35: Card was added to database
+02.07.15 16:36: Card was added to database
+02.07.15 16:36: Card was added to database
+02.07.15 16:36: Card with id '18' was deleted
+02.07.15 16:36: Card with id '19' was deleted
+02.07.15 16:36: Card with id '16' was deleted
+02.07.15 16:36: Card with id '17' was deleted
+02.07.15 16:40: Card was added to database
+02.07.15 16:43: Card was added to database
+02.07.15 16:45: Card was added to database
+02.07.15 16:46: Card with id '21' was deleted
+02.07.15 16:48: Card with id '20' was deleted
+02.07.15 16:48: Card with id '22' was deleted
+02.07.15 17:43: Card was added to database
+02.07.15 17:43: Stack PC was added to database
+02.07.15 17:44: Card was added to database
+02.07.15 23:53: Stack Mathe was added to database
+02.07.15 23:54: Card was added to database
+02.07.15 23:54: Card was added to database
+02.07.15 23:55: Card with id '1' was deleted
+02.07.15 23:55: Card with id '2' was deleted
+02.07.15 23:56: Stack Mathe was added to database
+02.07.15 23:57: Card was added to database
+02.07.15 23:57: Stack Bio was added to database
+02.07.15 23:57: Card was added to database
+02.07.15 23:59: Stack Mathe was added to database
+02.07.15 23:59: Card was added to database
+02.07.15 23:59: Stack Bio was added to database
+02.07.15 23:59: Card was added to database
+02.07.15 23:59: Card was added to database
+03.07.15 00:00: Card with id '3' was deleted
+03.07.15 00:00: Card with id '1' was deleted
+03.07.15 00:00: Card with id '2' was deleted
+03.07.15 00:00: Card was added to database
+03.07.15 00:04: Card was added to database
+03.07.15 00:04: Card was added to database
+03.07.15 00:05: Card was added to database
+03.07.15 00:05: Card was added to database
+03.07.15 00:05: Card was added to database
+03.07.15 00:06: Card was added to database
+03.07.15 00:06: Card was added to database
+03.07.15 00:08: Card was added to database
+03.07.15 00:08: Card with id '9' was deleted
+03.07.15 00:20: Card with id '6' was deleted
+03.07.15 00:20: Card with id '4' was deleted
+03.07.15 00:20: Card with id '5' was deleted
+03.07.15 00:20: Card with id '7' was deleted
+03.07.15 00:20: Card with id '8' was deleted
+03.07.15 00:20: Card with id '10' was deleted
+03.07.15 00:20: Card with id '11' was deleted
+03.07.15 00:20: Card with id '12' was deleted
+03.07.15 00:22: Card was added to database
+03.07.15 10:11: Card was added to database
+03.07.15 11:02: Stack Mathe was added to database
+03.07.15 11:02: Card was added to database
+03.07.15 11:03: Stack Mathe was added to database
+03.07.15 11:03: Card was added to database
+03.07.15 11:06: Stack Mathe was added to database
+03.07.15 11:06: Card was added to database
+03.07.15 11:06: Stack asd was added to database
+03.07.15 11:07: Stack asdasd was added to database
+03.07.15 11:07: Stack asd was added to database
+03.07.15 11:07: Card was added to database
+03.07.15 11:07: Card was added to database
+03.07.15 11:07: Card with id '4' was deleted
+03.07.15 11:08: Stack Mathe was added to database
+03.07.15 11:09: Card was added to database
+03.07.15 11:09: Stack Bio was added to database
+03.07.15 11:09: Stack Deutsch was added to database
+03.07.15 11:09: Card was added to database
+03.07.15 11:10: Card was added to database
+03.07.15 11:12: Stack Mathe was added to database
+03.07.15 11:12: Card was added to database
+03.07.15 11:12: Card was added to database
+03.07.15 11:12: Stack 12312 was added to database
+03.07.15 11:12: Card was added to database
+03.07.15 11:12: Card with id '10' was deleted
+03.07.15 11:46: Stack Wirtschaftsinformatik was added to database
+03.07.15 11:47: Card was added to database
+03.07.15 13:09: Card was added to database
+03.07.15 13:10: Stack Mathe was added to database
+03.07.15 13:11: Card was added to database
+03.07.15 13:12: Card with id '11' was deleted
+03.07.15 13:37: Card with id '13' was deleted
+03.07.15 13:43: Card with id '12' was deleted
+03.07.15 13:43: Card was added to database
+03.07.15 13:51: Stack Mathe was added to database
+03.07.15 13:51: Card was added to database
+03.07.15 13:53: Card was added to database
+03.07.15 14:07: Card with id '1' was deleted
+03.07.15 14:24: Card with id '2' was deleted
+03.07.15 14:25: Card was added to database
+03.07.15 17:55: Card was added to database
+03.07.15 17:55: Card with id '3' was deleted
+03.07.15 18:15: Card with id '4' was deleted
+03.07.15 18:16: Card was added to database
+03.07.15 18:21: Card with id '5' was deleted
+03.07.15 18:27: Stack Mathe was added to database
+03.07.15 18:28: Card was added to database
+03.07.15 18:46: Card with id '6' was deleted
+03.07.15 18:46: Card was added to database
+03.07.15 18:58: Card was added to database
+03.07.15 19:17: Card with id '7' was deleted
+03.07.15 19:17: Card with id '8' was deleted
+03.07.15 19:32: Stack Bio was added to database
+03.07.15 19:32: Card was added to database
+03.07.15 19:32: Card was added to database
+03.07.15 19:36: TTL of Card with id '9' was set to '4'
+03.07.15 19:36: TTL of Card with id '10' was set to '4'
+03.07.15 19:45: Card was added to database
+03.07.15 19:45: TTL of Card with id '11' was set to '0'
+03.07.15 19:45: TTL of Card with id '11' was set to '-1'
+03.07.15 19:47: Card with id '11' was deleted
+03.07.15 19:47: Card was added to database
+03.07.15 19:47: TTL of Card with id '12' was set to '0'
+03.07.15 19:47: Card with id '12' was deleted
+03.07.15 19:48: Card was added to database
+03.07.15 19:48: TTL of Card with id '13' was set to '0'
+03.07.15 19:48: Card with id '13' was deleted
+03.07.15 19:49: Card was added to database
+03.07.15 19:49: TTL of Card with id '14' was set to '0'
+03.07.15 19:49: Card with id '14' was deleted
+03.07.15 19:50: Card with id '9' was deleted
+03.07.15 19:50: Card with id '10' was deleted
+03.07.15 20:06: Stack Mathe was added to database
+03.07.15 20:06: Card was added to database
+03.07.15 20:07: TTL of Card with id '15' was set to '1'
+03.07.15 20:07: TTL of Card with id '15' was set to '0'
+03.07.15 20:07: Card with id '15' was deleted
+03.07.15 21:37: Card was added to database
+03.07.15 21:38: TTL of Card with id '16' was set to '0'
+03.07.15 21:38: TTL of Card with id '16' was set to '-1'
+03.07.15 21:38: TTL of Card with id '16' was set to '-2'
+03.07.15 21:39: Card with id '16' was deleted
+03.07.15 21:39: Card was added to database
+03.07.15 21:39: TTL of Card with id '17' was set to '1'
+03.07.15 21:39: TTL of Card with id '17' was set to '0'
+03.07.15 21:39: Card with id '17' was deleted
+03.07.15 21:45: Card was added to database
+03.07.15 21:45: TTL of Card with id '18' was set to '0'
+03.07.15 21:45: Card with id '18' was deleted
+03.07.15 21:47: Stack Mathe was added to database
+03.07.15 21:47: Stack Bio was added to database
+03.07.15 21:47: Card was added to database
+03.07.15 21:47: Card was added to database
+03.07.15 21:47: TTL of Card with id '19' was set to '0'
+03.07.15 21:47: Card with id '19' was deleted
+03.07.15 21:48: TTL of Card with id '20' was set to '1'
+03.07.15 21:48: TTL of Card with id '20' was set to '0'
+03.07.15 21:48: Card with id '20' was deleted
+04.07.15 10:42: Card was added to database
+04.07.15 10:43: Card was added to database
+04.07.15 10:44: TTL of Card with id '22' was set to '1'
+04.07.15 10:51: TTL of Card with id '21' was set to '0'
+04.07.15 10:52: TTL of Card with id '22' was set to '0'
+04.07.15 10:52: Card with id '21' was deleted
+04.07.15 10:52: Card with id '22' was deleted
+04.07.15 11:29: Card was added to database
+04.07.15 11:31: Card with id '23' was deleted
+04.07.15 11:46: Stack Englisch was added to database
+04.07.15 11:46: Stack Bio was added to database
+04.07.15 11:46: Card was added to database
+04.07.15 11:46: TTL of Card with id '24' was set to '1'
+04.07.15 12:08: TTL of Card with id '24' was set to '0'
+04.07.15 12:09: Card with id '24' was deleted
+04.07.15 12:24: Card was added to database
+04.07.15 12:24: TTL of Card with id '25' was set to '1'
+04.07.15 12:25: TTL of Card with id '25' was set to '0'
+04.07.15 12:25: Card with id '25' was deleted
+04.07.15 12:27: Card was added to database
+04.07.15 12:27: TTL of Card with id '26' was set to '0'
+04.07.15 12:27: Card with id '26' was deleted
+04.07.15 12:30: Card was added to database
+04.07.15 12:30: Card with id '27' was deleted
+04.07.15 12:35: Settings saved
+04.07.15 16:08: Card was added to database
+04.07.15 16:09: TTL of Card with id '28' was set to '1'
+04.07.15 16:09: Settings saved
+04.07.15 16:10: Card with id '28' was deleted
+04.07.15 16:37: Stack Mathe was added to database
+04.07.15 16:37: Card was added to database
+04.07.15 16:37: Card was added to database
+04.07.15 16:40: TTL of Card with id '29' was set to '1'
+04.07.15 16:40: TTL of Card with id '30' was set to '3'
+04.07.15 16:40: Settings saved
+04.07.15 16:58: TTL of Card with id '29' was set to '0'
+04.07.15 16:58: Card with id '29' was deleted
+04.07.15 16:58: Card with id '30' was deleted
+04.07.15 16:59: Card was added to database
+04.07.15 17:00: Stack Mathe was added to database
+04.07.15 17:01: Card was added to database
+04.07.15 17:03: Card with id '1' was deleted
+04.07.15 17:04: Card was added to database
+04.07.15 17:05: Card with id '2' was deleted
+04.07.15 17:08: Card was added to database
+04.07.15 17:10: Card with id '3' was deleted
+04.07.15 17:10: Card was added to database
+04.07.15 17:20: Card was added to database
+04.07.15 17:20: Stack Bio was added to database
+04.07.15 17:21: Card was added to database
+04.07.15 17:41: Card with '4' was updated
+04.07.15 17:41: Card with '4' was updated
+04.07.15 17:43: Card with '4' was updated
+04.07.15 17:43: Card with id '4' was deleted
+04.07.15 17:43: Card with '6' was updated
+04.07.15 17:43: Card with '6' was updated
+04.07.15 18:02: Card with '5' was updated
+04.07.15 18:36: Card with '5' was updated
+04.07.15 18:40: Card with '5' was updated
+04.07.15 18:40: Card with '5' was updated
+04.07.15 18:41: Card with '5' was updated
+04.07.15 18:42: Settings saved
+04.07.15 18:42: TTL of Card with id '5' was set to '1'
+04.07.15 18:43: TTL of Card with id '5' was set to '0'
+04.07.15 18:43: Card with id '5' was deleted
+04.07.15 18:43: TTL of Card with id '6' was set to '2'
+04.07.15 18:43: Card with '6' was updated
+04.07.15 18:43: Card with id '6' was deleted
+04.07.15 19:32: Card was added to database
+04.07.15 19:32: Card with '7' was updated
+04.07.15 19:32: Card with id '7' was deleted
+04.07.15 21:18: Card was added to database
+04.07.15 21:19: Settings saved
+04.07.15 23:16: Card with id '8' was deleted
+05.07.15 00:17: Card was added to database
+05.07.15 00:17: Card with '9' was updated
+05.07.15 00:26: Card was added to database
+05.07.15 00:26: TTL of Card with id '10' was set to '1'
+05.07.15 00:27: Card with id '9' was deleted
+05.07.15 00:27: Card with id '10' was deleted
+05.07.15 11:08: Settings saved
+05.07.15 11:11: Card was added to database
+05.07.15 11:19: Card was added to database
+05.07.15 11:21: Card with id '11' was deleted
+05.07.15 11:21: Card with id '12' was deleted
+05.07.15 11:21: Card was added to database
+05.07.15 11:22: Card with id '13' was deleted
+05.07.15 11:22: Card was added to database
+05.07.15 11:23: Card with id '14' was deleted
+05.07.15 11:35: Card was added to database
+05.07.15 11:35: Card with id '15' was deleted
+05.07.15 11:36: Settings saved
+05.07.15 11:36: Card was added to database
+05.07.15 11:36: Card with id '16' was deleted
+05.07.15 11:45: Settings saved
+05.07.15 11:45: Card was added to database
+05.07.15 11:46: Card with id '17' was deleted
+05.07.15 11:46: Card was added to database
+05.07.15 11:46: Settings saved
+05.07.15 11:46: Card with id '18' was deleted
+05.07.15 11:46: Settings saved
+05.07.15 11:47: Card was added to database
+05.07.15 11:47: Card with id '19' was deleted
+05.07.15 11:47: Card was added to database
+05.07.15 12:01: Card with id '20' was deleted
+05.07.15 14:25: Settings saved
+05.07.15 15:06: Stack Mathe was added to database
+05.07.15 15:07: Card was added to database
+05.07.15 15:07: Card was added to database
+05.07.15 15:07: Card was added to database
+05.07.15 15:07: TTL of Card with id '21' was set to '1'
+05.07.15 15:08: TTL of Card with id '23' was set to '5'
+05.07.15 15:08: TTL of Card with id '21' was set to '0'
+05.07.15 15:08: TTL of Card with id '22' was set to '3'
+05.07.15 15:08: TTL of Card with id '22' was set to '2'
+05.07.15 15:08: TTL of Card with id '23' was set to '4'
+05.07.15 15:08: TTL of Card with id '22' was set to '1'
+05.07.15 15:08: TTL of Card with id '23' was set to '3'
+05.07.15 15:09: TTL of Card with id '22' was set to '0'
+05.07.15 15:09: TTL of Card with id '23' was set to '2'
+05.07.15 15:11: TTL of Card with id '23' was set to '1'
+05.07.15 15:13: TTL of Card with id '23' was set to '0'
+05.07.15 18:24: Settings saved
+05.07.15 18:25: Card with id '21' was deleted
+05.07.15 18:25: Card with id '22' was deleted
+05.07.15 18:25: Card with id '23' was deleted
+05.07.15 19:00: Card was added to database
+05.07.15 19:01: Stack Bio was added to database
+05.07.15 19:01: Stack Englisch was added to database
+05.07.15 19:01: Card was added to database
+05.07.15 19:01: Card was added to database
+05.07.15 19:01: Card was added to database
+05.07.15 19:02: Card with '27' was updated
+05.07.15 19:02: Card was added to database
+05.07.15 20:20: Stack Statistik was added to database
+05.07.15 20:28: Stack Pc was added to database
+05.07.15 20:34: Stack Biologie1 was added to database
+05.07.15 21:17: Stack OC was added to database
+05.07.15 21:47: Settings saved
+05.07.15 21:49: Settings saved
+05.07.15 21:50: Settings saved
+05.07.15 21:50: Settings saved
+05.07.15 21:56: Settings saved
+05.07.15 21:57: Settings saved
+05.07.15 21:58: Settings saved
+05.07.15 21:58: Settings saved
+06.07.15 09:54: Settings saved
+06.07.15 10:02: Stack OC was added to database
+06.07.15 10:11: Stack 123 was added to database
+06.07.15 10:11: Stack 1 was added to database
+06.07.15 10:11: Stack 2 was added to database
+06.07.15 10:13: Stack 4 was added to database
+06.07.15 10:13: Stack 6 was added to database
+06.07.15 10:13: Stack a was added to database
+06.07.15 10:13: Stack d was added to database
+06.07.15 10:13: Stack g was added to database
+06.07.15 10:13: Stack gh was added to database
+06.07.15 10:13: Stack 1234 was added to database
+06.07.15 10:17: Card with id '24' was deleted
+06.07.15 10:18: Card with id '27' was deleted
+06.07.15 10:19: Card with id '25' was deleted
+06.07.15 10:20: Card with id '28' was deleted
+06.07.15 10:21: Card with id '26' was deleted
+06.07.15 10:22: Card was added to database
+06.07.15 10:23: Card was added to database
+06.07.15 10:23: Card with id '30' was deleted
+06.07.15 10:24: Card was added to database
+06.07.15 10:24: Card was added to database
+06.07.15 10:24: Card with id '31' was deleted
+06.07.15 10:25: Card with id '32' was deleted
+06.07.15 10:27: Card with id '29' was deleted
+06.07.15 10:27: Settings saved
+06.07.15 12:12: Stack Statistik was added to database
+06.07.15 12:16: Stack VWL was added to database
+06.07.15 12:26: Card was added to database
+06.07.15 12:26: Card with id '33' was deleted
+06.07.15 12:28: Settings saved
+06.07.15 12:28: Settings saved
+06.07.15 12:28: Card was added to database
+06.07.15 12:29: Card with id '34' was deleted
+06.07.15 12:30: Card was added to database
+06.07.15 12:37: Settings saved
+06.07.15 12:37: Card with id '35' was deleted
+06.07.15 12:37: Settings saved
+06.07.15 12:37: Settings saved
+06.07.15 12:37: Card was added to database
+06.07.15 12:37: Card with id '36' was deleted
+06.07.15 12:40: Card was added to database
+06.07.15 12:40: Card with id '37' was deleted
+06.07.15 12:57: Settings saved
+06.07.15 12:59: Card was added to database
+06.07.15 13:03: Card was added to database
+06.07.15 13:03: Card was added to database
+06.07.15 13:04: Card with id '40' was deleted
+06.07.15 13:06: Card with id '39' was deleted
+06.07.15 13:07: Card was added to database
+06.07.15 13:07: Card with id '38' was deleted
+06.07.15 13:08: Card was added to database
+06.07.15 13:08: Card was added to database
+06.07.15 13:08: Card with id '43' was deleted
+06.07.15 13:08: Card with id '42' was deleted
+06.07.15 13:11: Card was added to database
+06.07.15 13:12: Card was added to database
+06.07.15 13:12: Card was added to database
+06.07.15 13:12: Card with id '46' was deleted
+06.07.15 13:15: Card was added to database
+06.07.15 13:16: Card with id '47' was deleted
+06.07.15 13:16: Card with id '45' was deleted
+06.07.15 13:16: Card with id '44' was deleted
+06.07.15 13:17: Card was added to database
+06.07.15 13:17: Card was added to database
+06.07.15 13:18: Card was added to database
+06.07.15 13:21: Card was added to database
+06.07.15 13:24: Card was added to database
+06.07.15 13:24: Card with id '48' was deleted
+06.07.15 13:25: Card with id '49' was deleted
+06.07.15 13:28: Card with id '50' was deleted
+06.07.15 13:28: Card with id '52' was deleted
+06.07.15 13:28: Card with id '41' was deleted
+06.07.15 13:28: Card with id '51' was deleted
+06.07.15 13:29: Card was added to database
+06.07.15 13:29: Card was added to database
+06.07.15 13:30: Card was added to database
+06.07.15 13:30: Card was added to database
+06.07.15 13:30: Card with id '53' was deleted
+06.07.15 13:30: Card with id '55' was deleted
+06.07.15 13:30: Card with id '54' was deleted
+06.07.15 13:30: Card with id '56' was deleted
+06.07.15 13:37: Card was added to database
+06.07.15 13:37: Card with id '57' was deleted
+06.07.15 13:37: Card was added to database
+06.07.15 13:38: Card was added to database
+06.07.15 13:39: Card was added to database
+06.07.15 13:44: Stack 123 was added to database
+06.07.15 13:47: Card was added to database
+06.07.15 14:05: Card with id '58' was deleted
+06.07.15 14:05: Card with id '60' was deleted
+06.07.15 14:05: Card with id '61' was deleted
+06.07.15 14:05: Stack Englisch was added to database
+06.07.15 14:06: Card was added to database
+06.07.15 14:07: Card was added to database
+06.07.15 14:07: Card was added to database
+06.07.15 14:12: Card was added to database
+06.07.15 14:14: Card was added to database
+06.07.15 14:14: Card was added to database
+06.07.15 14:20: Card was added to database
+06.07.15 14:28: Card was added to database
+06.07.15 14:28: Card was added to database
+06.07.15 14:30: Card was added to database
+06.07.15 14:51: Card with id '70' was deleted
+06.07.15 14:51: Card with id '71' was deleted
+06.07.15 15:09: Card with id '66' was deleted
+06.07.15 15:09: Card with id '67' was deleted
+06.07.15 15:21: Card with id '62' was deleted
+06.07.15 15:21: Card with id '68' was deleted
+06.07.15 15:25: Card with id '65' was deleted
+06.07.15 15:26: Card with id '69' was deleted
+06.07.15 15:26: Card with id '63' was deleted
+06.07.15 15:26: Card with id '64' was deleted
+06.07.15 15:26: Card was added to database
+06.07.15 15:30: Card was added to database
+06.07.15 15:30: Card with id '72' was deleted
+06.07.15 15:35: Card with id '73' was deleted
+06.07.15 15:35: Card was added to database
+06.07.15 15:36: Card was added to database
+06.07.15 15:36: Card was added to database
+06.07.15 15:36: Card with id '75' was deleted
+06.07.15 15:37: Card with id '74' was deleted
+06.07.15 15:38: Card was added to database
+06.07.15 15:38: Card with id '77' was deleted
+06.07.15 15:38: Card with id '76' was deleted
+06.07.15 15:40: Card was added to database
+06.07.15 16:12: Card was added to database
+06.07.15 16:12: Card with id '78' was deleted
+06.07.15 16:12: Card with id '79' was deleted
+06.07.15 16:56: Settings saved
+06.07.15 16:56: Card was added to database
+06.07.15 16:56: Card with id '80' was deleted
+06.07.15 17:51: Card was added to database
+06.07.15 17:58: Stack Englisch was added to database
+06.07.15 17:58: Card was added to database
+06.07.15 17:58: Settings saved
+06.07.15 19:27: Card with id '81' was deleted
+06.07.15 21:43: Stack  was added to database
+06.07.15 21:47: Stack  was added to database
+06.07.15 21:48: Stack  was added to database
+06.07.15 21:48: Stack  was added to database
+06.07.15 21:49: Stack  was added to database
+06.07.15 21:49: Stack  was added to database
+06.07.15 21:52: Stack  was added to database
+06.07.15 21:53: Stack  was added to database
+06.07.15 21:53: Stack 123 was added to database
+06.07.15 21:53: Stack  was added to database
+06.07.15 21:57: Stack Mathe was added to database
+06.07.15 22:04: Card was added to database
+06.07.15 22:05: Card with id '83' was deleted
+06.07.15 22:05: Card was added to database
+06.07.15 22:06: TTL of Card with id '84' was set to '5'
+06.07.15 22:52: Card was added to database
+06.07.15 22:54: Card was added to database
+06.07.15 22:56: Stack Englisch was added to database
+06.07.15 22:56: Card with '84' was updated
+06.07.15 22:59: Card with '84' was updated
+06.07.15 23:06: Card with '84' was updated
+06.07.15 23:06: Card with '85' was updated
+07.07.15 10:17: Card was added to database
+07.07.15 10:18: Card with '87' was updated
+07.07.15 10:23: Card was added to database
+07.07.15 10:25: Card with '88' was updated
+07.07.15 10:27: Card with '88' was updated
+07.07.15 10:27: Card with '88' was updated
+07.07.15 10:27: Card with '88' was updated
+07.07.15 10:30: Card with '88' was updated
+07.07.15 10:31: Card with '87' was updated
+07.07.15 10:33: Card with '87' was updated
+07.07.15 10:33: Card with '87' was updated
+07.07.15 10:36: Card with '87' was updated
+07.07.15 10:37: Card with '84' was updated
+07.07.15 10:52: Card with '84' was updated
+07.07.15 10:52: Card with '85' was updated
+07.07.15 10:52: Card with id '88' was deleted
+07.07.15 10:53: Card with id '85' was deleted
+07.07.15 10:53: Card with id '84' was deleted
+07.07.15 10:53: Card with '86' was updated
+07.07.15 12:01: Settings saved
+07.07.15 12:01: Settings saved
+07.07.15 12:01: Settings saved
+07.07.15 12:01: Settings saved
+07.07.15 12:52: Card with '87' was updated
+07.07.15 12:57: Card was added to database
+07.07.15 13:30: TTL of Card with id '86' was set to '4'
+07.07.15 13:30: TTL of Card with id '89' was set to '1'
+07.07.15 13:34: Settings saved
+07.07.15 13:34: TTL of Card with id '89' was set to '0'
+07.07.15 13:35: Card with id '89' was deleted
+07.07.15 13:38: Card with '86' was updated
+07.07.15 13:38: TTL of Card with id '86' was set to '0'
+07.07.15 13:38: Card with id '86' was deleted
+07.07.15 13:39: TTL of Card with id '87' was set to '4'
+07.07.15 13:43: TTL of Card with id '87' was set to '3'
+07.07.15 14:42: Card with '87' was updated
+07.07.15 14:45: Card was added to database
+07.07.15 14:45: Card with '90' was updated
+07.07.15 15:05: Card with '90' was updated
+07.07.15 15:40: TTL of Card with id '87' was set to '2'
+07.07.15 15:42: TTL of Card with id '87' was set to '1'
+07.07.15 17:26: Stack PC was added to database
+07.07.15 17:27: Card was added to database
+07.07.15 17:27: TTL of Card with id '91' was set to '4'
+07.07.15 17:28: Settings saved
+07.07.15 17:28: Card was added to database
+07.07.15 17:41: Card with id '92' was deleted
+07.07.15 17:42: Card with id '87' was deleted
+07.07.15 17:42: Card with id '90' was deleted
+07.07.15 17:42: Settings saved
+07.07.15 17:42: Settings saved
+07.07.15 17:42: Settings saved
+07.07.15 17:42: Settings saved
+07.07.15 17:42: Settings saved
+07.07.15 20:49: Stack Mathe was added to database
+07.07.15 20:49: Settings saved
+07.07.15 20:50: Card was added to database
+07.07.15 20:54: Stack Mathe was added to database
+07.07.15 20:54: Card was added to database
+07.07.15 20:55: Stack Mathe was added to database
+07.07.15 20:55: Card was added to database
+07.07.15 20:55: Card with id '3' was deleted
+07.07.15 20:55: Stack asd was added to database
+07.07.15 21:02: Stack Mathe was added to database
+07.07.15 21:03: Card was added to database
+07.07.15 21:20: Card was added to database
+07.07.15 21:21: TTL of Card with id '4' was set to '2'
+08.07.15 12:05: Stack Mathe was added to database
+08.07.15 12:09: Stack Mathe was added to database
+08.07.15 12:12: Stack asd was added to database
+08.07.15 12:38: Stack Mathe was added to database
+08.07.15 12:38: Card was added to database
+08.07.15 13:16: Card was added to database
+08.07.15 13:20: Stack Englisch was added to database
+08.07.15 13:21: Card was added to database
+08.07.15 13:22: Stack Biologie was added to database
+08.07.15 13:23: Card with id '1' was deleted
+08.07.15 13:26: Card was added to database
+08.07.15 13:32: TTL of Card with id '2' was set to '1'
+08.07.15 13:50: Card was added to database
+08.07.15 14:12: Card was added to database
+08.07.15 14:14: TTL of Card with id '5' was set to '4'
+08.07.15 14:15: Card with id '2' was deleted
+08.07.15 14:15: Card with id '5' was deleted
+08.07.15 14:15: Card with id '3' was deleted
+08.07.15 14:15: Card with id '4' was deleted
+08.07.15 14:15: Card with id '6' was deleted
+08.07.15 14:15: Stack Biologie was added to database
+08.07.15 14:16: Card was added to database
+08.07.15 16:23: Stack Mathe was added to database
+08.07.15 16:23: Card was added to database
+08.07.15 23:49: Stack Mathe was added to database
+08.07.15 23:50: Card was added to database
+08.07.15 23:50: Card with id '1' was deleted
+08.07.15 23:51: Card was added to database
+08.07.15 23:57: Card with id '2' was deleted
+09.07.15 00:00: Card was added to database
+09.07.15 00:07: Card was added to database
+09.07.15 00:07: Settings saved
+09.07.15 00:07: Settings saved
+09.07.15 00:07: Settings saved
+09.07.15 00:07: Settings saved
+09.07.15 00:07: Settings saved
+09.07.15 00:07: Settings saved
+09.07.15 00:07: Settings saved
+09.07.15 00:07: Settings saved
+09.07.15 00:07: Settings saved
+09.07.15 00:07: Settings saved
+09.07.15 00:07: Settings saved
+09.07.15 00:07: Settings saved
+09.07.15 00:07: Settings saved
+09.07.15 00:07: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:11: Settings saved
+09.07.15 00:15: Settings saved
+09.07.15 00:15: Settings saved
+09.07.15 00:15: Settings saved
+09.07.15 00:15: Settings saved
+09.07.15 00:15: Settings saved
+09.07.15 00:18: Settings saved
+09.07.15 00:18: Settings saved
+09.07.15 00:18: Settings saved
+09.07.15 00:18: Settings saved
+09.07.15 00:18: Settings saved
+09.07.15 00:18: Stack Englisch was added to database
+09.07.15 00:18: Card was added to database
+09.07.15 00:19: TTL of Card with id '5' was set to '4'
+09.07.15 00:24: Card with '3' was updated
+09.07.15 00:24: Card with '3' was updated
+09.07.15 00:31: Stack Mathe was added to database
+09.07.15 00:31: Stack Bio was added to database
+09.07.15 00:31: Stack PC was added to database
+09.07.15 00:32: TTL of Card with id '5' was set to '3'
+09.07.15 11:52: Settings saved
+09.07.15 11:52: Settings saved
+09.07.15 11:52: Settings saved
+09.07.15 12:00: TTL of Card with id '5' was set to '2'
+09.07.15 12:00: Card was added to database
+09.07.15 12:17: Card with id '3' was deleted
+09.07.15 12:17: Card with id '4' was deleted
+09.07.15 12:17: Card with id '6' was deleted
+09.07.15 12:17: Card with id '5' was deleted
+09.07.15 12:17: Settings saved
+09.07.15 12:17: Settings saved
+09.07.15 12:17: Settings saved
+09.07.15 13:46: Settings saved
+09.07.15 13:48: Card was added to database
+09.07.15 13:48: TTL of Card with id '7' was set to '4'
+09.07.15 14:49: Settings saved
+09.07.15 15:23: TTL of Card with id '7' was set to '3'
+09.07.15 15:24: TTL of Card with id '7' was set to '2'
+09.07.15 15:25: Card was added to database
+09.07.15 15:25: TTL of Card with id '7' was set to '1'
+09.07.15 15:27: TTL of Card with id '7' was set to '0'
+09.07.15 15:28: Card with id '7' was deleted
+09.07.15 15:28: Settings saved
+09.07.15 15:28: Card was added to database
+09.07.15 15:28: TTL of Card with id '8' was set to '3'
+09.07.15 15:29: TTL of Card with id '8' was set to '2'
+09.07.15 15:34: TTL of Card with id '9' was set to '99'
+09.07.15 15:34: TTL of Card with id '8' was set to '1'
+09.07.15 15:34: TTL of Card with id '8' was set to '0'
+09.07.15 15:40: Card was added to database
+09.07.15 15:40: TTL of Card with id '10' was set to '1'
+09.07.15 15:41: TTL of Card with id '9' was set to '98'
+09.07.15 15:42: TTL of Card with id '9' was set to '97'
+09.07.15 15:48: TTL of Card with id '9' was set to '96'
+09.07.15 15:48: TTL of Card with id '10' was set to '0'
+09.07.15 15:48: Card was added to database
+09.07.15 15:48: TTL of Card with id '9' was set to '95'
+09.07.15 15:51: Card with id '8' was deleted
+09.07.15 15:51: Card with id '9' was deleted
+09.07.15 15:51: Card with id '11' was deleted
+09.07.15 15:51: Card with id '10' was deleted
+09.07.15 15:52: Card was added to database
+09.07.15 15:52: Card was added to database
+09.07.15 15:52: Card was added to database
+09.07.15 15:52: Card was added to database
+09.07.15 15:52: Card was added to database
+09.07.15 15:52: TTL of Card with id '12' was set to '3'
+09.07.15 15:52: TTL of Card with id '13' was set to '1'
+09.07.15 15:52: TTL of Card with id '14' was set to '1'
+09.07.15 15:55: Stack Mathe was added to database
+09.07.15 15:55: Card was added to database
+09.07.15 15:55: Card was added to database
+09.07.15 15:55: Card was added to database
+09.07.15 15:56: Card was added to database
+09.07.15 15:56: Stack 123 was added to database
+09.07.15 15:56: Card was added to database
+09.07.15 15:56: Card was added to database
+09.07.15 15:56: Card was added to database
+09.07.15 15:56: TTL of Card with id '21' was set to '1'
+09.07.15 15:56: TTL of Card with id '22' was set to '1'
+09.07.15 15:57: TTL of Card with id '21' was set to '0'
+09.07.15 15:57: TTL of Card with id '22' was set to '0'
+09.07.15 15:57: TTL of Card with id '23' was set to '1'
+09.07.15 15:59: Stack Mathe was added to database
+09.07.15 15:59: Card was added to database
+09.07.15 15:59: Card was added to database
+09.07.15 15:59: TTL of Card with id '24' was set to '1'
+09.07.15 16:01: TTL of Card with id '24' was set to '0'
+09.07.15 16:02: Stack Englisch was added to database
+09.07.15 16:04: Stack Englisch was added to database
+09.07.15 16:04: Stack Englisch was added to database
+09.07.15 16:40: TTL of Card with id '25' was set to '1'
+09.07.15 16:40: TTL of Card with id '25' was set to '0'
+09.07.15 16:41: Stack Mathe was added to database
+09.07.15 16:41: Card was added to database
+09.07.15 16:41: TTL of Card with id '26' was set to '1'
+09.07.15 16:42: Stack Mathe was added to database
+09.07.15 16:42: Card was added to database
+09.07.15 16:42: TTL of Card with id '27' was set to '1'
+09.07.15 16:43: Stack Mathe was added to database
+09.07.15 16:43: Card was added to database
+09.07.15 16:43: TTL of Card with id '28' was set to '1'
+10.07.15 00:01: Stack Mathe was added to database
+10.07.15 00:04: Stack Mathe was deleted and all cards in it
+10.07.15 00:04: Stack 123 was added to database
+10.07.15 00:11: Card was added to database
+10.07.15 00:12: Card was added to database
+10.07.15 00:12: Card with id '29' was deleted
+10.07.15 00:12: Card with id '30' was deleted
+10.07.15 00:12: Stack 123 was deleted and all cards in it
+10.07.15 13:12: Stack Mathe was added to database
+10.07.15 13:12: Card was added to database
+10.07.15 13:12: Card was added to database
+10.07.15 13:12: Card was added to database
+10.07.15 13:12: Card was added to database
+10.07.15 13:12: Card was added to database
+10.07.15 13:12: Card was added to database
+10.07.15 13:12: TTL of Card with id '31' was set to '1'
+10.07.15 13:12: TTL of Card with id '32' was set to '1'
+10.07.15 13:12: TTL of Card with id '33' was set to '1'
+10.07.15 13:13: TTL of Card with id '31' was set to '0'
+10.07.15 13:13: TTL of Card with id '32' was set to '0'
+10.07.15 13:26: TTL of Card with id '33' was set to '0'
+10.07.15 14:16: TTL of Card with id '36' was set to '1'
+10.07.15 14:18: TTL of Card with id '34' was set to '1'
+10.07.15 14:18: TTL of Card with id '35' was set to '1'
+10.07.15 14:18: TTL of Card with id '36' was set to '0'
+10.07.15 14:19: TTL of Card with id '34' was set to '0'
+10.07.15 14:19: TTL of Card with id '35' was set to '0'
+10.07.15 14:21: Stack Mathe was deleted and all cards in it
+10.07.15 16:51: Stack Mathe was added to database
+10.07.15 16:51: Card was added to database
+10.07.15 16:51: TTL of Card with id '37' was set to '1'
+10.07.15 16:55: Card was added to database
+10.07.15 16:55: TTL of Card with id '37' was set to '0'
+10.07.15 16:55: Card with id '37' was deleted
+10.07.15 16:55: Card with id '38' was deleted
+10.07.15 19:21: Stack Mathe was deleted and all cards in it
+10.07.15 19:21: Stack Test was added to database
+10.07.15 19:21: Card was added to database
+10.07.15 19:23: TTL of Card with id '39' was set to '1'
+10.07.15 19:25: Card was added to database
+10.07.15 19:25: TTL of Card with id '39' was set to '0'
+10.07.15 19:43: Stack null was deleted and all cards in it
+10.07.15 19:43: Stack null was deleted and all cards in it
+10.07.15 19:43: Stack 123 was added to database
+10.07.15 19:45: Stack 123 was deleted and all cards in it
+10.07.15 19:46: Stack Test was deleted and all cards in it
+10.07.15 19:46: Stack 123 was added to database
+10.07.15 19:48: Stack null was deleted and all cards in it
+10.07.15 19:50: Stack null was deleted and all cards in it
+10.07.15 19:50: Stack null was deleted and all cards in it
+10.07.15 19:51: Stack 123 was deleted and all cards in it
+10.07.15 19:51: Stack Mathe was added to database
+10.07.15 21:14: Stack Keks was added to database
+10.07.15 21:15: Card was added to database
+10.07.15 21:16: Card was added to database
+10.07.15 21:16: TTL of Card with id '41' was set to '1'
+11.07.15 13:47: TTL of Card with id '41' was set to '0'
+12.07.15 14:49: Settings saved
+12.07.15 14:49: Card was added to database
+12.07.15 16:19: Card was added to database
+12.07.15 17:22: Settings saved
+13.07.15 00:05: Card was added to database
+13.07.15 00:05: TTL of Card with id '45' was set to '1'
+13.07.15 00:06: TTL of Card with id '42' was set to '4'
+13.07.15 00:12: Stack Keks was deleted and all cards in it
+13.07.15 00:18: Stack Bio was added to database
+13.07.15 00:19: Card was added to database
+13.07.15 00:20: Card was added to database
+13.07.15 00:20: Card was added to database
+13.07.15 00:21: Settings saved
+13.07.15 00:21: Settings saved
+13.07.15 00:21: Settings saved
+14.07.15 19:20: Card was added to database
+14.07.15 19:24: TTL of Card with id '44' was set to '1'
+14.07.15 19:24: TTL of Card with id '46' was set to '1'
+14.07.15 19:24: TTL of Card with id '47' was set to '1'
+14.07.15 19:24: TTL of Card with id '48' was set to '1'
+14.07.15 19:24: TTL of Card with id '49' was set to '1'
+14.07.15 19:24: TTL of Card with id '49' was set to '0'
+15.07.15 22:02: Card with '43' was updated
+15.07.15 22:02: TTL of Card with id '46' was set to '0'
+15.07.15 22:02: TTL of Card with id '47' was set to '0'
+15.07.15 22:02: TTL of Card with id '48' was set to '0'
+19.07.15 13:04: Stack Englisch was added to database
+19.07.15 13:05: Stack Pc was added to database
+19.07.15 13:07: Stack OC was added to database
+19.07.15 13:08: Card was added to database
+19.07.15 13:08: TTL of Card with id '50' was set to '1'
+19.07.15 13:34: Stack Religion was added to database
+19.07.15 13:39: Settings saved
+19.07.15 13:39: Settings saved
+19.07.15 13:39: Settings saved
+19.07.15 13:39: Settings saved
+19.07.15 13:39: Settings saved
+19.07.15 13:39: Settings saved
+19.07.15 13:39: Settings saved
+19.07.15 13:39: Settings saved
+19.07.15 13:42: TTL of Card with id '43' was set to '1'
+19.07.15 14:20: Card with '44' was updated
+19.07.15 14:20: Card was added to database
+19.07.15 14:20: Card was added to database
+19.07.15 14:21: Card was added to database
+19.07.15 14:21: Card was added to database
+19.07.15 14:55: Settings saved
+19.07.15 14:58: TTL of Card with id '45' was set to '0'
+19.07.15 15:02: TTL of Card with id '44' was set to '0'
+19.07.15 15:02: TTL of Card with id '51' was set to '3'
+19.07.15 15:03: TTL of Card with id '51' was set to '2'
+19.07.15 15:13: TTL of Card with id '51' was set to '1'
+19.07.15 15:22: Settings saved
+19.07.15 15:22: Settings saved
+19.07.15 15:22: Settings saved
+19.07.15 15:23: TTL of Card with id '52' was set to '2'
+19.07.15 15:23: TTL of Card with id '53' was set to '3'
+19.07.15 15:23: TTL of Card with id '43' was set to '0'
+19.07.15 15:23: TTL of Card with id '43' was set to '0'
+19.07.15 15:25: TTL of Card with id '54' was set to '1'
+19.07.15 15:25: TTL of Card with id '53' was set to '2'
+19.07.15 15:25: TTL of Card with id '52' was set to '1'
+19.07.15 15:27: TTL of Card with id '50' was set to '0'
+19.07.2015 17:34:54: Stack Teststapel was added to database
+19.07.2015 20:05:35: TTL of Card with id '51' was set to '0'
+19.07.2015 20:05:46: Settings saved
+20.07.2015 16:37:02: Stack Kochen was added to database
+20.07.2015 16:38:20: Card with id '51' was deleted
+20.07.2015 16:51:28: Settings saved
+20.07.2015 16:51:54: TTL of Card with id '52' was set to '0'
+20.07.2015 16:51:55: TTL of Card with id '53' was set to '1'
+20.07.2015 16:51:56: TTL of Card with id '54' was set to '0'
+20.07.2015 16:53:02: TTL of Card with id '53' was set to '0'
+20.07.2015 16:54:12: Card was added to database
+20.07.2015 16:54:19: TTL of Card with id '55' was set to '3'
+20.07.2015 16:54:28: Card was added to database
+20.07.2015 16:54:33: Card was added to database
+20.07.2015 16:54:41: TTL of Card with id '55' was set to '2'
+20.07.2015 16:54:42: TTL of Card with id '56' was set to '3'
+20.07.2015 16:56:56: Settings saved
+20.07.2015 16:57:06: TTL of Card with id '55' was set to '1'
+20.07.2015 16:57:07: TTL of Card with id '56' was set to '2'
+20.07.2015 16:57:08: TTL of Card with id '57' was set to '2'
+20.07.2015 16:57:20: Settings saved
+20.07.2015 16:58:18: Settings saved
+20.07.2015 16:58:45: TTL of Card with id '57' was set to '1'
+20.07.2015 17:30:43: Settings saved
+20.07.2015 17:31:05: Settings saved
+20.07.2015 17:37:41: Settings saved
+20.07.2015 17:37:44: Settings saved
+20.07.2015 17:37:47: Settings saved
+20.07.2015 17:39:43: Settings saved
+20.07.2015 17:39:57: Settings saved
+20.07.2015 17:43:29: Settings saved
+20.07.2015 17:43:52: Settings saved
+20.07.2015 17:46:35: Settings saved
+20.07.2015 17:46:38: Settings saved
+20.07.2015 17:46:38: Settings saved
+20.07.2015 17:46:39: Settings saved
+20.07.2015 17:46:39: Settings saved
+20.07.2015 17:46:39: Settings saved
+20.07.2015 17:46:39: Settings saved
+20.07.2015 17:46:39: Settings saved
+20.07.2015 17:46:40: Settings saved
+20.07.2015 17:46:40: Settings saved
+20.07.2015 17:46:40: Settings saved
+20.07.2015 17:46:40: Settings saved
+20.07.2015 17:46:40: Settings saved
+20.07.2015 17:46:40: Settings saved
+20.07.2015 17:46:41: Settings saved
+20.07.2015 17:46:41: Settings saved
+20.07.2015 17:46:41: Settings saved
+20.07.2015 17:46:58: Settings saved
+20.07.2015 17:47:03: Settings saved
+20.07.2015 17:47:16: Settings saved
+20.07.2015 17:47:42: Settings saved
+20.07.2015 17:47:52: Settings saved
+20.07.2015 17:47:55: Settings saved
+20.07.2015 17:48:03: Settings saved
+20.07.2015 17:48:29: Settings saved
+20.07.2015 17:48:31: Settings saved
+20.07.2015 17:51:52: Settings saved
+20.07.2015 17:52:34: Settings saved
+20.07.2015 17:53:31: Settings saved
+20.07.2015 17:54:24: Settings saved
+20.07.2015 17:54:25: Settings saved
+20.07.2015 17:54:25: Settings saved
+20.07.2015 17:54:26: Settings saved
+20.07.2015 17:54:26: Settings saved
+20.07.2015 17:54:53: Settings saved
+20.07.2015 17:56:40: Settings saved
+20.07.2015 17:57:30: Settings saved
+20.07.2015 17:58:01: Settings saved
+20.07.2015 17:58:06: Settings saved
+20.07.2015 17:59:11: Settings saved
+20.07.2015 17:59:19: Settings saved
+20.07.2015 18:00:19: Settings saved
+20.07.2015 18:00:22: Settings saved
+20.07.2015 18:00:27: Settings saved
+20.07.2015 18:03:26: Settings saved
+20.07.2015 18:03:31: Settings saved
+20.07.2015 18:05:25: Settings saved
+20.07.2015 18:05:31: Settings saved
+20.07.2015 18:40:39: Settings saved
+20.07.2015 18:40:45: Settings saved
+20.07.2015 18:40:50: Settings saved
+21.07.2015 00:05:02: Settings saved
+21.07.2015 00:05:28: Settings saved
+21.07.2015 00:05:35: TTL of Card with id '55' was set to '0'
+21.07.2015 00:05:37: TTL of Card with id '57' was set to '0'
+21.07.2015 00:05:40: TTL of Card with id '56' was set to '1'
+21.07.2015 10:41:12: Settings saved
+21.07.2015 11:12:19: Card was added to database
+21.07.2015 11:12:30: Settings saved
+21.07.2015 11:12:51: Card was added to database
+21.07.2015 11:19:22: Card was added to database
+21.07.2015 11:21:06: Card with '44' was updated
+21.07.2015 15:19:46: Stack Informatik was added to database
+21.07.2015 15:20:09: Card was added to database
+21.07.2015 15:20:28: TTL of Card with id '61' was set to '1'
+21.07.2015 15:44:25: Card was added to database
+21.07.2015 15:44:53: Card was added to database
+21.07.2015 16:01:56: Stack es was added to database
+21.07.2015 16:04:54: Stack es was deleted and all cards in it
+21.07.2015 16:05:56: Stack 123 was added to database
+21.07.2015 16:18:42: Settings saved
+21.07.2015 16:18:46: Settings saved
+21.07.2015 20:05:44: TTL of Card with id '44' was set to '2'
+21.07.2015 20:05:54: TTL of Card with id '56' was set to '0'
+21.07.2015 20:05:57: TTL of Card with id '58' was set to '1'
+21.07.2015 20:05:59: TTL of Card with id '60' was set to '1'
+21.07.2015 20:06:00: TTL of Card with id '62' was set to '1'
+21.07.2015 20:06:02: TTL of Card with id '63' was set to '1'
+21.07.2015 20:14:16: TTL of Card with id '44' was set to '1'
+21.07.2015 20:15:43: Card with id '47' was deleted
+21.07.2015 20:15:44: Card with id '48' was deleted
+21.07.2015 20:15:45: Card with id '49' was deleted
+21.07.2015 20:15:46: Card with id '46' was deleted
+21.07.2015 20:17:10: Card with id '44' was deleted
+21.07.2015 20:40:18: Settings saved
+21.07.2015 20:52:06: Card with id '50' was deleted
+22.07.2015 14:23:52: Settings saved
+22.07.2015 14:24:00: Settings saved
+22.07.2015 14:25:42: Settings saved
+22.07.2015 14:41:21: Settings saved
+22.07.2015 14:41:25: Settings saved
+22.07.2015 14:43:44: Settings saved
+22.07.2015 14:43:47: Settings saved
+22.07.2015 14:43:49: Settings saved
+22.07.2015 14:43:56: Settings saved
+22.07.2015 14:49:12: Settings saved
+22.07.2015 14:49:18: Settings saved
+22.07.2015 14:53:22: Settings saved
+22.07.2015 14:55:23: Settings saved
+22.07.2015 14:55:26: Settings saved
+22.07.2015 14:55:30: Settings saved
+22.07.2015 14:56:29: TTL of Card with id '58' was set to '0'
+22.07.2015 14:56:30: TTL of Card with id '59' was set to '1'
+22.07.2015 14:56:32: TTL of Card with id '60' was set to '0'
+22.07.2015 14:56:42: TTL of Card with id '63' was set to '0'
+22.07.2015 14:56:53: Settings saved
+22.07.2015 15:21:17: Settings saved
+22.07.2015 16:05:47: Settings saved
+22.07.2015 16:10:40: Settings saved
+22.07.2015 16:11:02: Settings saved
+22.07.2015 16:11:22: Settings saved
+22.07.2015 16:11:23: Settings saved
+22.07.2015 16:11:25: Settings saved
+22.07.2015 16:11:27: Settings saved
+22.07.2015 16:11:33: Settings saved
+22.07.2015 16:19:18: Stack Test was added to database
+22.07.2015 16:19:40: Settings saved
+22.07.2015 16:19:46: Settings saved
+22.07.2015 16:20:15: Settings saved
+22.07.2015 16:20:18: Settings saved
+22.07.2015 16:21:48: Settings saved
+22.07.2015 16:22:23: Card was added to database
+22.07.2015 16:22:31: Settings saved
+22.07.2015 16:22:40: Settings saved
+22.07.2015 16:22:42: Settings saved
+22.07.2015 16:24:34: Settings saved
+22.07.2015 16:26:11: Settings saved
+22.07.2015 16:26:12: Settings saved
+22.07.2015 16:27:04: Settings saved
+22.07.2015 16:30:11: TTL of Card with id '64' was set to '1'
+22.07.2015 16:31:01: TTL of Card with id '64' was set to '0'
+22.07.2015 16:42:41: Settings saved
+22.07.2015 16:43:16: Stack Mathe was deleted and all cards in it
+22.07.2015 16:43:18: Stack Bio was deleted and all cards in it
+22.07.2015 16:43:28: Stack Englisch was deleted and all cards in it
+22.07.2015 16:43:29: Stack Pc was deleted and all cards in it
+22.07.2015 16:43:30: Stack OC was deleted and all cards in it
+22.07.2015 16:43:31: Stack Religion was deleted and all cards in it
+22.07.2015 16:43:31: Stack Test was deleted and all cards in it
+22.07.2015 16:43:46: Stack Mathe was added to database
+22.07.2015 16:43:57: Card was added to database
+22.07.2015 16:44:06: TTL of Card with id '65' was set to '1'
+22.07.2015 16:44:46: Settings saved
+22.07.2015 16:45:37: Settings saved
+22.07.2015 16:47:23: Stack Religion was added to database
+22.07.2015 16:47:31: Card was added to database
+22.07.2015 16:47:41: Card was added to database
+22.07.2015 16:48:15: Settings saved
+22.07.2015 16:50:53: Settings saved
+22.07.2015 16:50:59: Settings saved
+22.07.2015 17:17:28: Settings saved
+22.07.2015 17:17:38: Settings saved
+22.07.2015 17:52:31: Settings saved
+22.07.2015 17:54:00: Settings saved
+22.07.2015 17:54:01: Settings saved
+22.07.2015 17:55:49: Settings saved
+22.07.2015 17:55:50: Settings saved
+22.07.2015 17:56:55: Settings saved
+22.07.2015 17:56:56: Settings saved
+22.07.2015 17:58:10: Settings saved
+22.07.2015 17:58:11: Settings saved
+22.07.2015 17:58:54: Settings saved
+22.07.2015 17:58:55: Settings saved
+22.07.2015 18:00:38: Settings saved
+22.07.2015 18:00:39: Settings saved
+22.07.2015 18:01:14: Settings saved
+22.07.2015 18:01:15: Settings saved
+22.07.2015 18:01:15: Settings saved
+22.07.2015 18:01:30: Settings saved
+22.07.2015 18:01:30: Settings saved
+22.07.2015 18:01:41: Settings saved
+22.07.2015 18:01:42: Settings saved
+22.07.2015 18:01:51: Settings saved
+22.07.2015 18:01:52: Settings saved
+22.07.2015 18:02:34: Settings saved
+22.07.2015 18:02:34: Settings saved
+22.07.2015 18:03:03: Settings saved
+22.07.2015 18:03:04: Settings saved
+22.07.2015 18:03:15: Settings saved
+22.07.2015 18:03:16: Settings saved
+22.07.2015 18:03:26: Settings saved
+22.07.2015 18:03:27: Settings saved
+22.07.2015 18:04:42: Settings saved
+22.07.2015 18:04:43: Settings saved
+22.07.2015 18:04:52: Settings saved
+22.07.2015 18:05:00: Settings saved
+22.07.2015 18:06:05: Settings saved
+22.07.2015 18:06:06: Settings saved
+22.07.2015 18:06:19: Settings saved
+22.07.2015 18:06:20: Settings saved
+22.07.2015 18:08:26: Settings saved
+22.07.2015 18:08:27: Settings saved
+22.07.2015 18:11:06: Settings saved
+22.07.2015 18:11:07: Settings saved
+22.07.2015 18:11:14: Settings saved
+22.07.2015 18:11:14: Settings saved
+22.07.2015 18:11:15: Settings saved
+22.07.2015 18:11:16: Settings saved
+22.07.2015 18:11:17: Settings saved
+22.07.2015 18:11:17: Settings saved
+22.07.2015 18:11:19: Settings saved
+22.07.2015 18:11:19: Settings saved
+22.07.2015 18:11:49: Settings saved
+22.07.2015 18:11:50: Settings saved
+22.07.2015 18:12:24: Settings saved
+22.07.2015 18:41:57: Settings saved
+22.07.2015 18:52:07: Settings saved
+22.07.2015 18:58:21: Settings saved
+22.07.2015 19:08:37: Settings saved
+22.07.2015 19:09:36: Settings saved
+22.07.2015 19:09:52: Settings saved
+23.07.2015 12:37:01: Settings saved
+23.07.2015 12:37:52: Card was added to database
+23.07.2015 12:44:31: Settings saved
+23.07.2015 12:44:32: Settings saved
+23.07.2015 12:45:34: Settings saved
+23.07.2015 12:45:34: Settings saved
+23.07.2015 12:45:35: Settings saved
+23.07.2015 12:46:04: Settings saved
+23.07.2015 12:47:18: Settings saved
+23.07.2015 23:20:38: Settings saved
+23.07.2015 23:21:03: Settings saved
+24.07.2015 19:19:21: Settings saved
+24.07.2015 19:19:29: TTL of Card with id '68' was set to '1'
+24.07.2015 19:19:31: TTL of Card with id '66' was set to '1'
+24.07.2015 19:19:33: TTL of Card with id '65' was set to '0'
+24.07.2015 19:19:59: Settings saved
+24.07.2015 19:20:05: Settings saved
+24.07.2015 19:20:26: Settings saved
+25.07.2015 12:18:33: TTL of Card with id '66' was set to '0'
+25.07.2015 14:25:35: Card with id '65' was deleted
+25.07.2015 14:25:36: Card with id '66' was deleted
+25.07.2015 14:25:37: Card with id '68' was deleted
+25.07.2015 14:25:39: Card with id '67' was deleted
+25.07.2015 19:13:06: Settings saved
+25.07.2015 19:13:20: Settings saved
+25.07.2015 22:33:58: Settings saved
+25.07.2015 22:34:34: Card was added to database
+25.07.2015 22:35:21: TTL of Card with id '69' was set to '4'
+25.07.2015 22:35:40: Card was added to database
+25.07.2015 22:35:47: TTL of Card with id '69' was set to '3'
+25.07.2015 22:36:09: Settings saved
+28.07.2015 12:15:28: Settings saved
+28.07.2015 12:15:34: Settings saved
+28.07.2015 12:15:39: Settings saved
+29.07.2015 00:50:10: TTL of Card with id '69' was set to '2'
+29.07.2015 00:50:12: TTL of Card with id '70' was set to '1'
+29.07.2015 11:23:39: Settings saved
+29.07.2015 11:23:41: Settings saved
+29.07.2015 11:23:46: Settings saved
+30.07.2015 02:12:35: TTL of Card with id '69' was set to '1'
+30.07.2015 02:12:36: TTL of Card with id '70' was set to '0'
+30.07.2015 02:13:35: TTL of Card with id '69' was set to '0'
+30.07.2015 11:21:46: Settings saved
+30.07.2015 11:23:01: Card was added to database
+30.07.2015 11:24:29: Settings saved
+30.07.2015 11:24:30: Settings saved
+30.07.2015 11:25:18: Settings saved
+30.07.2015 11:25:19: Settings saved
+30.07.2015 11:25:47: Settings saved
+30.07.2015 11:25:48: Settings saved
+30.07.2015 11:26:15: Card was added to database
+30.07.2015 11:27:39: Settings saved
+30.07.2015 11:27:47: TTL of Card with id '71' was set to '4'
+30.07.2015 11:27:48: TTL of Card with id '72' was set to '1'
+30.07.2015 13:20:38: Settings saved
+30.07.2015 13:20:42: Settings saved
+30.07.2015 15:24:27: Settings saved
+30.07.2015 15:24:42: Settings saved
+30.07.2015 15:24:47: Settings saved
+30.07.2015 15:24:49: Settings saved
+30.07.2015 15:25:29: Stack Mathe was deleted and all cards in it
+30.07.2015 15:25:30: Stack Religion was deleted and all cards in it
+30.07.2015 19:59:37: TTL of Card with id '71' was set to '3'
+30.07.2015 20:15:41: Settings saved
+30.07.2015 20:15:50: Settings saved
+30.07.2015 23:56:38: Settings saved
+30.07.2015 23:57:46: Settings saved
+30.07.2015 23:58:09: Settings saved
+30.07.2015 23:58:52: Settings saved
+31.07.2015 00:11:41: Settings saved
+31.07.2015 00:12:49: Settings saved
+31.07.2015 00:14:36: Settings saved
+31.07.2015 00:14:40: Settings saved
+31.07.2015 00:16:07: Settings saved
+31.07.2015 00:16:16: Settings saved
+31.07.2015 00:16:37: Settings saved
+31.07.2015 00:19:04: Settings saved
+31.07.2015 00:22:07: Settings saved
+31.07.2015 00:22:19: Settings saved
+31.07.2015 00:24:11: Settings saved
+31.07.2015 00:26:21: Settings saved
+31.07.2015 00:26:44: Settings saved
+31.07.2015 00:26:48: Settings saved
+31.07.2015 00:27:11: Settings saved
+31.07.2015 00:30:17: Settings saved
+31.07.2015 00:30:49: Settings saved
+31.07.2015 00:31:50: Settings saved
+31.07.2015 00:31:56: Settings saved
+31.07.2015 00:34:45: Settings saved
+31.07.2015 00:34:56: Settings saved
+31.07.2015 00:35:05: Settings saved
+31.07.2015 00:35:18: Settings saved
+31.07.2015 00:35:46: Settings saved
+31.07.2015 00:36:25: Settings saved
+31.07.2015 00:37:55: Settings saved
+31.07.2015 00:38:11: Settings saved
+31.07.2015 00:38:19: Settings saved
+31.07.2015 00:38:20: Settings saved
+31.07.2015 00:42:20: Settings saved
+31.07.2015 00:42:36: Settings saved
+31.07.2015 00:44:28: Settings saved
+31.07.2015 00:44:37: Settings saved
+31.07.2015 00:45:09: Settings saved
+31.07.2015 00:45:23: Settings saved
+31.07.2015 00:45:34: Settings saved
+31.07.2015 00:45:45: Settings saved
+31.07.2015 00:46:57: Settings saved
+31.07.2015 00:47:07: Settings saved
+31.07.2015 00:47:18: Settings saved
+31.07.2015 00:49:59: Settings saved
+31.07.2015 00:53:06: Settings saved
+31.07.2015 00:54:53: Settings saved
+31.07.2015 00:55:00: Settings saved
+31.07.2015 00:55:31: Settings saved
+31.07.2015 00:55:38: Settings saved
+31.07.2015 00:55:43: Settings saved
+31.07.2015 00:55:51: Settings saved
+31.07.2015 01:05:41: Settings saved
+31.07.2015 01:05:42: Settings saved
+31.07.2015 01:05:44: Settings saved
+31.07.2015 01:05:50: Settings saved
+31.07.2015 01:06:01: Settings saved
+31.07.2015 01:06:15: Settings saved
+31.07.2015 13:46:49: Settings saved
+31.07.2015 13:47:41: Settings saved
+31.07.2015 13:55:16: Card was added to database
+31.07.2015 13:55:46: TTL of Card with id '73' was set to '1'
+31.07.2015 14:20:14: Stack Biologie was added to database
+31.07.2015 14:20:42: Card was added to database
+31.07.2015 14:20:56: Settings saved
+31.07.2015 14:21:04: Settings saved
+31.07.2015 14:22:49: TTL of Card with id '74' was set to '4'
+31.07.2015 14:27:15: Settings saved
+31.07.2015 14:27:25: Settings saved
+31.07.2015 14:27:50: TTL of Card with id '73' was set to '0'
+31.07.2015 14:30:04: TTL of Card with id '71' was set to '2'
+31.07.2015 14:30:11: TTL of Card with id '74' was set to '3'
+01.08.2015 00:16:40: Settings saved
+01.08.2015 00:16:56: Settings saved
+01.08.2015 00:19:37: Settings saved
+01.08.2015 00:43:49: Settings saved
+01.08.2015 00:51:05: Settings saved
+01.08.2015 00:51:06: Settings saved
+01.08.2015 00:57:29: Settings saved
+01.08.2015 00:57:30: Settings saved
+01.08.2015 01:02:56: Settings saved
+01.08.2015 01:06:01: Settings saved
+01.08.2015 01:06:11: TTL of Card with id '74' was set to '2'
+01.08.2015 01:06:20: Settings saved
+01.08.2015 01:06:29: TTL of Card with id '74' was set to '1'
+01.08.2015 01:06:38: Settings saved
+01.08.2015 01:54:40: Settings saved
+01.08.2015 01:54:44: Settings saved
+01.08.2015 01:54:47: Settings saved
+01.08.2015 01:54:53: Settings saved
+01.08.2015 01:55:01: Settings saved
+01.08.2015 01:55:05: Settings saved
+01.08.2015 17:19:38: Settings saved
+01.08.2015 17:19:39: Settings saved
+01.08.2015 17:19:40: Settings saved
+01.08.2015 17:19:45: Settings saved
+01.08.2015 20:42:40: Settings saved
+01.08.2015 20:42:48: Settings saved
+02.08.2015 00:28:56: Settings saved
+02.08.2015 00:29:02: Settings saved
+02.08.2015 00:29:10: Settings saved
+02.08.2015 00:29:19: Settings saved
+02.08.2015 00:34:46: Settings saved
+02.08.2015 00:36:38: Settings saved
+02.08.2015 00:36:58: Settings saved
+02.08.2015 00:41:47: Settings saved
+02.08.2015 00:42:04: Settings saved
+02.08.2015 00:42:35: Settings saved
+02.08.2015 00:49:03: Settings saved
+02.08.2015 00:49:13: Settings saved
+02.08.2015 00:50:42: Settings saved
+02.08.2015 00:50:48: Settings saved
+02.08.2015 12:36:45: Card was added to database
+02.08.2015 12:37:35: TTL of Card with id '75' was set to '4'
+02.08.2015 12:37:51: Settings saved
+02.08.2015 12:38:28: Card with '75' was updated
+02.08.2015 12:38:40: Card with '75' was updated
+02.08.2015 12:40:47: Card with id '73' was deleted
+02.08.2015 12:40:52: Card with '75' was updated
+02.08.2015 12:41:01: Card with '75' was updated
+02.08.2015 12:42:26: Settings saved
+02.08.2015 12:42:55: Card was added to database
+02.08.2015 12:43:04: Settings saved
+02.08.2015 12:43:11: Card with '76' was updated
+02.08.2015 12:43:20: Card with id '76' was deleted
+02.08.2015 12:43:23: Card with id '69' was deleted
+02.08.2015 12:43:24: Card with id '70' was deleted
+02.08.2015 12:43:29: Card with id '72' was deleted
+02.08.2015 12:55:43: Settings saved
+02.08.2015 12:55:50: Settings saved
+02.08.2015 12:56:28: Settings saved
+02.08.2015 12:56:41: Settings saved
+02.08.2015 12:57:36: Settings saved
+02.08.2015 12:58:51: Settings saved
+02.08.2015 12:59:41: Settings saved
+02.08.2015 13:31:54: Settings saved
+02.08.2015 14:56:04: Settings saved
+02.08.2015 14:56:13: Settings saved
+02.08.2015 15:05:00: Settings saved
+02.08.2015 15:05:21: Settings saved
+02.08.2015 23:35:24: TTL of Card with id '74' was set to '0'
+02.08.2015 23:35:47: Card was added to database
+02.08.2015 23:35:52: TTL of Card with id '77' was set to '1'
+02.08.2015 23:36:06: Card with id '74' was deleted
+02.08.2015 23:36:08: TTL of Card with id '77' was set to '0'
+02.08.2015 23:59:47: Card with id '77' was deleted
+03.08.2015 00:06:03: TTL of Card with id '71' was set to '1'
+03.08.2015 00:06:08: TTL of Card with id '71' was set to '0'
+03.08.2015 11:14:07: Stack Religion was deleted and all cards in it
+03.08.2015 11:14:08: Stack Biologie was deleted and all cards in it
+03.08.2015 11:14:09: Stack Mathe was deleted and all cards in it
+03.08.2015 11:14:15: Stack Test was added to database
+03.08.2015 11:14:22: Card was added to database
+03.08.2015 11:14:25: TTL of Card with id '78' was set to '0'
+03.08.2015 11:17:25: Stack fasdasf was added to database
+03.08.2015 11:19:10: Card was added to database
+03.08.2015 11:19:17: Stack 12412412 was added to database
+03.08.2015 11:19:20: Stack asdasfas was added to database
+03.08.2015 11:19:32: Card was added to database
+03.08.2015 11:19:39: Card was added to database
+03.08.2015 11:19:45: TTL of Card with id '81' was set to '1'
+03.08.2015 11:19:51: TTL of Card with id '80' was set to '1'
+03.08.2015 11:19:57: TTL of Card with id '79' was set to '1'
+03.08.2015 11:20:47: Stack asdasfas was deleted and all cards in it
+03.08.2015 11:20:48: Stack 12412412 was deleted and all cards in it
+03.08.2015 11:20:49: Stack fasdasf was deleted and all cards in it
+03.08.2015 11:20:50: Stack Test was deleted and all cards in it
+03.08.2015 13:04:33: Stack Mathe was added to database
+03.08.2015 13:04:46: Card was added to database
+03.08.2015 13:04:55: TTL of Card with id '82' was set to '1'
+03.08.2015 13:05:04: Stack Mathe was deleted and all cards in it
+03.08.2015 14:34:24: Stack Mathe was deleted and all cards in it
+03.08.2015 14:34:25: Stack Religion was deleted and all cards in it
+03.08.2015 14:34:27: Stack Biologie was deleted and all cards in it
+05.08.2015 22:09:22: Stack Mathe was added to database
+05.08.2015 22:15:03: Card was added to database
+05.08.2015 22:17:35: Card was added to database
+05.08.2015 22:22:07: Card was added to database
+05.08.2015 22:22:34: Card was added to database
+05.08.2015 22:32:46: Card was added to database
+05.08.2015 22:33:12: Card was added to database
+05.08.2015 22:33:42: Card was added to database
+05.08.2015 22:39:15: Card with id '75' was deleted
+05.08.2015 22:39:16: Card with id '76' was deleted
+05.08.2015 22:39:16: Card with id '77' was deleted
+05.08.2015 22:39:17: Card with id '78' was deleted
+05.08.2015 22:39:18: Card with id '79' was deleted
+05.08.2015 22:39:19: Card with id '80' was deleted
+05.08.2015 22:39:20: Card with id '81' was deleted
+05.08.2015 22:39:50: Card was added to database
+05.08.2015 22:48:53: Card was added to database
+05.08.2015 22:50:03: Card with id '82' was deleted
+05.08.2015 22:50:05: Card with id '83' was deleted
+06.08.2015 20:44:52: Stack Mathe was deleted and all cards in it
+06.08.2015 20:55:00: Stack test was added to database
+06.08.2015 21:43:31: Stack test was deleted and all cards in it
+07.08.2015 14:09:28: Stack Mathe was added to database
+07.08.2015 14:10:11: Card was added to database
+07.08.2015 14:12:00: TTL of Card with id '84' was set to '4'
+10.08.2015 11:57:08: TTL of Card with id '84' was set to '3'
+10.08.2015 12:18:33: Stack Religion was added to database
+11.08.2015 10:39:53: Stack Religio234 was added to database
+11.08.2015 13:36:33: Stack Biologie was added to database
+11.08.2015 13:41:02: TTL of Card with id '84' was set to '2'
+14.08.2015 16:06:43: TTL of Card with id '84' was set to '1'
+16.08.2015 23:05:23: Stack Test was added to database
+16.08.2015 23:07:06: <!----java.sql.SQLException:path to 'C:/Users/AlexW/workspace/BrainChecker/app.jar!/technical_services/db/CueCards.db': 'C:\Users\AlexW\workspace\BrainChecker\app.jar!' does not exist----!>
+16.08.2015 23:07:11: <!----java.sql.SQLException:path to 'C:/Users/AlexW/workspace/BrainChecker/app.jar!/technical_services/db/CueCards.db': 'C:\Users\AlexW\workspace\BrainChecker\app.jar!' does not exist----!>
+16.08.2015 23:07:51: <!----java.sql.SQLException:path to 'C:/Users/AlexW/workspace/BrainChecker/app.jar!/technical_services/db/CueCards.db': 'C:\Users\AlexW\workspace\BrainChecker\app.jar!' does not exist----!>
+16.08.2015 23:10:30: <!----java.sql.SQLException:path to 'C:/Users/AlexW/workspace/BrainChecker/app.jar/technical_services/db/CueCards.db': 'C:\Users\AlexW\workspace\BrainChecker\app.jar\technical_services' does not exist----!>
+16.08.2015 23:12:34: <!----java.sql.SQLException:path to 'jar:file:/C:/Users/AlexW/workspace/BrainChecker/app.jar!/technical_services/db/CueCards.db': 'C:\Users\AlexW\workspace\BrainChecker\jar:file:' does not exist----!>
+16.08.2015 23:13:04: <!----java.sql.SQLException:path to 'jar:file:/C:/Users/AlexW/workspace/BrainChecker/app.jar!/technical_services/db/CueCards.db': 'C:\Users\AlexW\workspace\BrainChecker\jar:file:' does not exist----!>
+16.08.2015 23:14:04: <!----java.sql.SQLException:path to ':/C:/Users/AlexW/workspace/BrainChecker/app.jar!/technical_services/db/CueCards.db': 'C:\Users\AlexW\workspace\BrainChecker\:' does not exist----!>
+16.08.2015 23:14:42: <!----java.sql.SQLException:path to 'jar:file:/C:/Users/AlexW/workspace/BrainChecker/app.jar!/technical_services/db/CueCards.db': 'C:\Users\AlexW\workspace\BrainChecker\jar:file:' does not exist----!>
+16.08.2015 23:15:04: <!----java.sql.SQLException:path to 'C:\Users\AlexW\workspace\BrainChecker/resources/db/CueCards.db': 'C:\Users\AlexW\workspace\BrainChecker\resources\db' does not exist----!>
