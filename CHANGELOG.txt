@@ -19,6 +19,7 @@ All notable changes to this project will be documented in this file.
 
 ###Fixed
 - Issue with card list when changing views (resizing)
+- Preferences fixes
 
 ## [0.9.21a] - 2015-08-06
 ###Changed
