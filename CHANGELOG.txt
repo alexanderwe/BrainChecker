@@ -20,6 +20,10 @@ All notable changes to this project will be documented in this file.
 ###Fixed
 - Issue with card list when changing stacks (resizing)
 - Icon and theme problems with pop-up windows 
+- Added scrollbar in statistic layout view 
+
+###Changed
+- Changes in dark theme
 
 ## [0.9.21a] - 2015-08-21
 ###Changed
