@@ -12,6 +12,19 @@ All notable changes to this project will be documented in this file.
 - Go to beta version soon
 - Minor update routine fixes (to Mac Version)
 
+
+## [0.9.21a] - 2015-08-32 
+###Added 
+- Version number in preferences 
+
+###Fixed
+- Issue with card list when changing stacks (resizing)
+- Icon and theme problems with pop-up windows 
+
+## [0.9.21a] - 2015-08-21
+###Changed
+- Some minor code changes
+
 ## [0.9.21a] - 2015-08-18
 ###Added
 - Ask for update on start
