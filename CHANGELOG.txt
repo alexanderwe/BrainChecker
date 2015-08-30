@@ -11,6 +11,10 @@ All notable changes to this project will be documented in this file.
 - Maybe create own themes ?
 - Minor update routine fixes (to Mac Version)
 
+## [0.51Beta] - 2015-08-30
+###Added 
+- Export function to export your statistics and preferences
+
 ## [0.5Beta] - 2015-08-26 
 ###Added 
 - Automatic update function
