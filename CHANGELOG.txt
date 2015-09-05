@@ -19,7 +19,7 @@ All notable changes to this project will be documented in this file.
 ###Added 
 - Automatic update function
 
-## [0.9.21a] - 2015-08-32 
+## [0.9.21a] - 2015-08-23 
 ###Added 
 - Version number in preferences 
 
