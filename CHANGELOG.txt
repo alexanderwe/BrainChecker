@@ -12,6 +12,10 @@ All notable changes to this project will be documented in this file.
 - Minor update routine fixes (to Mac Version)
 
 
+## [0.53Beta] - 2015-09-09
+###Added
+- Search function
+
 ## [0.52Beta] - 2015-09-07
 ###Changes
 - Minor changes in program code
