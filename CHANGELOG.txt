@@ -14,6 +14,7 @@ All notable changes to this project will be documented in this file.
 ## [0.54Beta] - 2015-09-11
 ###Changed
 -Update routine
+- Restart routine
 
 ## [0.53Beta] - 2015-09-09
 ###Added
