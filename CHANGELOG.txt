@@ -11,6 +11,9 @@ All notable changes to this project will be documented in this file.
 - Maybe create own themes ?
 - Minor update routine fixes (to Mac Version)
 
+## [0.54Beta] - 2015-09-11
+###Changed
+-Update routine
 
 ## [0.53Beta] - 2015-09-09
 ###Added
