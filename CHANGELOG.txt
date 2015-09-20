@@ -11,6 +11,11 @@ All notable changes to this project will be documented in this file.
 - Maybe create own themes ?
 - Minor update routine fixes (to Mac Version)
 
+
+## [0.55Beta] - 2015-09-20
+###Fixed
+- Bug fix when editing a card and some preferences were selected
+
 ## [0.54Beta] - 2015-09-11
 ###Changed
 -Update routine
