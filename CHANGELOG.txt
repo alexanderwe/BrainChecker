@@ -11,6 +11,10 @@ All notable changes to this project will be documented in this file.
 - Maybe create own themes ?
 - Minor update routine fixes (to Mac Version)
 
+## [0.57Beta] - 2015-09-27
+###Added
+- Confirmation dialogs when deleting cards or stacks to prevent accidentally deleting
+
 ## [0.56Beta] - 2015-09-23
 ###Fixed
 - Minor fixes
